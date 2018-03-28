@@ -29,8 +29,8 @@ Spout is a package for macOS. It has a similar sibling in Syphon for Windows.
 ## Control
 ## Compatability Matrix
 
-|Software   |Android   |iOS   | macOS   | RaspberryPi|Windows|
-|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|Spout  |   |   |   |   |   | * |
-|Syphon |   |   | * |   |   |   |
+|Software   |Android   |iOS|Linux|macOS|RaspberryPi|Windows|
+|-----------|----------|---|-----|-----|-----------|-------|
+|           |          |   |     |     |           |       |
+|Spout      |          |   |     |     |           |   *   |
+|Syphon     |          |   |  *  |     |           |       |
