@@ -2,8 +2,9 @@
 
 A list of awesome applications, resources and similar for streaming, video, audio, midi and control channels. Focuses on free for personal use software, but some are also free to use.
 
-- [awesome-streaming-video-audio-midi](#awesome-streaming-video-audio-midi)
+- [awesome-streaming-audio-video-midi-control](#awesome-streaming-audio-video-midi-control)
     - [Streaming](#streaming)
+        - [OBS Studio](#obs-studio)
     - [Video](#video)
         - [NewTek NDI](#newtek-ndi)
         - [Spout](#spout)
@@ -14,8 +15,8 @@ A list of awesome applications, resources and similar for streaming, video, audi
     - [Compatability Matrix](#compatability-matrix)
 
 ## Streaming
-* OBS Studio
-* 
+### OBS Studio
+ 
 ## Video
 ### NewTek NDI
 * NewTek NDI Tools (VLC, Adobe)
@@ -31,6 +32,6 @@ Spout is a package for macOS. It has a similar sibling in Syphon for Windows.
 
 |Software   |Android   |iOS|Linux|macOS|RaspberryPi|Windows|
 |-----------|----------|---|-----|-----|-----------|-------|
-|OBS Studio |          |   |  *  |  *  |           |   *   |
-|Spout      |          |   |     |     |           |   *   |
-|Syphon     |          |   |     |  *  |           |       |
+|[OBS Studio](#obs-studio) |||*|*||*|
+|[Spout](#spout)||||||*|
+|[Syphon](#syphon)||||*|||
