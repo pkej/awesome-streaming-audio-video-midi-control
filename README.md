@@ -31,6 +31,6 @@ Spout is a package for macOS. It has a similar sibling in Syphon for Windows.
 
 |Software   |Android   |iOS|Linux|macOS|RaspberryPi|Windows|
 |-----------|----------|---|-----|-----|-----------|-------|
-|           |          |   |     |     |           |       |
+|OBS Studio |          |   |  *  |  *  |           |   *   |
 |Spout      |          |   |     |     |           |   *   |
-|Syphon     |          |   |  *  |     |           |       |
+|Syphon     |          |   |     |  *  |           |       |
